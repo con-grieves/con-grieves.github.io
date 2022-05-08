@@ -2,77 +2,77 @@
   {
     "title": "Black Bean and Rice Enchiladas",
     "id": 1,
-    "src": "./images/black-bean-enchiledas.jpg",
+    "src": "https://con-grieves.github.io/data/black-bean-and-rice-enchiladas.json",
     "description": "These vegetarian black bean and rice enchiladas are just as satisfying as those served in restaurants.",
     "tags": ["main dish", "vegetarian", "mexican"]
   },
   {
     "title": "Basil and Pesto Hummus",
     "id": 2,
-    "src": "./images/basil-pesto-hummus.jpg",
+    "src": "https://con-grieves.github.io/data/basil-and-pesto-hummus.json",
     "description": "This deliciously-sweet hummus is bursting with basil and an all-around pesto body.",
     "tags": ["appetizer", "snack", "dip", "spread", "vegetarian"]
   },
   {
     "title": "Banana Oatmeal Cookie",
     "id": 3,
-    "src": "./images/Banana-Oat-Cookies-square-FS-1-500x375.jpg",
+    "src": "https://con-grieves.github.io/data/banana-oatmeal-cookie.json",
     "description": "This recipe has been handed down in my family for generations. It's a good way to use overripe bananas. It's also a moist cookie that travels well either in the mail or car.",
     "tags": ["dessert", "fruit"]
   },
   {
     "title": "World's Best Lasagna",
     "id": 4,
-    "src": "./images/Best-Lasagna-550.jpg",
+    "src": "https://con-grieves.github.io/data/worlds-best-lasagna.json",
     "description": "It takes a little work, but it is worth it.",
     "tags": ["main dish", "italian"]
   },
   {
     "title": "Vegetarian Korma",
     "id": 5,
-    "src": "./images/veg-korma.jpg",
+    "src": "https://con-grieves.github.io/data/vegetarian-korma.json",
     "description": "This is an easy and exotic Indian dish. It's rich, creamy, mildly spiced, and extremely flavorful. Serve with naan and rice.",
     "tags": ["main dish", "vegetarian", "indian"]
   },
   {
     "title": "Vegetable Fried Rice",
     "id": 6,
-    "src": "./images/Vegetable_Fried_Brown_Rice-2.jpg",
+    "src": "https://con-grieves.github.io/data/vegetable-fried-rice.json",
     "description": "This dish combines the nutty flavor of brown rice with the fresh taste of bell peppers, baby peas, and other vegetables.",
     "tags": ["main dish", "vegetarian"]
   },
   {
     "title": "Marinated Grilled Shrimp",
     "id": 7,
-    "src": "./images/shrimp.jpg",
+    "src": "https://con-grieves.github.io/data/marinated-grilled-shrimp.json",
     "description": "A very simple and easy marinade that makes your shrimp so yummy you don't even need cocktail sauce.",
     "tags": ["main dish", "grill"]
   },
   {
     "title": "Homemade Chicken Enchiladas",
     "id": 8,
-    "src": "./images/easy-chicken-enchiladas-sq-010.jpg",
+    "src": "https://con-grieves.github.io/data/homemade-chicken-enchiladas.json",
     "description": "These enchiladas are great. Even my 5 year old loves them!",
     "tags": ["main dish", "mexican"]
   },
   {
     "title": "Homemade Black Bean Veggie Burgers",
     "id": 9,
-    "src": "./images/blackbeanburger1.jpg",
+    "src": "https://con-grieves.github.io/data/homemade-black-bean-veggie-burgers.json",
     "description": "You will never want to eat frozen veggie burgers again. These are so easy, and you'll be proud to have created such a vegetarian delight.",
     "tags": ["main dish", "vegetarian", "grill"]
   },
   {
     "title": "Four Cheese Margherita Pizza",
     "id": 10,
-    "src": "./images/pizza.jpg",
+    "src": "https://con-grieves.github.io/data/four-cheese-margherita-pizza.json",
     "description": "This is a fantastic version of an Italian classic. The feta cheese adds a rich flavor that brings this dish to life. Incredibly easy and incredibly delicious!",
     "tags": ["main dish", "italian"]
   },
   {
     "title": "Divine Hard-Boiled Eggs",
     "id": 11,
-    "src": "./images/wholesomeyum-baked-hard-boiled-eggs-in-the-oven-2.jpg",
+    "src": "https://con-grieves.github.io/data/divine-hard-boiled-eggs.json",
     "description": "These hard-boiled eggs are cooked perfectly every time without turning the yolks green.",
     "tags": ["appetizer", "snack", "breakfast"]
   }
